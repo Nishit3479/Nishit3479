@@ -8,7 +8,23 @@
 -->
 - 🔭 I’m currently working on the basics of Cyber Security.
 - 🌱 I’m looking to collaborate on projects related to Java, Python and Web development. 
-- 🤔 I’m looking for help and guidance towards learning cyber security related modules.
-- 📫 How to reach me: 
-  - LinkedIn : https://www.linkedin.com/in/nishit-verma-0bba911a5
-  - That's the only means for now😄
+- 🤔 I’m looking for help and guidance towards learning cyber security related odules.
+- ⚡ I'm currently pursuing Engineering in Computer Science Engineering with spec. in Networking and Security at [VIT-AP] (https://vitap.ac.in/)
+
+	[![Linkedin Badge](https://img.shields.io/badge/-NishitVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/nishit-verma-0bba911a5)  [![Gmail Badge](https://img.shields.io/badge/-NishitVerma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishitverma1312@gmail.com)](mailto:nishitverma1312@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### <i>About</i>
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, C, JavaScript💻
+-  **Hobbies :** Articles📕 & Music :headphones:
+-  **Fact :** It's never late to get started 🎯:heart:
+-  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
+
+<p align="center">
+  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishit3479&show_icons=true&theme=radical">
+</p>
+
+
+-----
+Credits: [Nishit Verma](https://github.com/Nishit3479)

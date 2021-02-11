@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help and guidance towards learning cyber security related odules.
 - ⚡ I'm currently pursuing my Engineering in Computer Science Engineering with spec. in Networking and Security at [VIT-AP](https://vitap.ac.in/).
 
-	[![Linkedin Badge](https://img.shields.io/badge/-NishitVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/nishit-verma-0bba911a5)  [![Gmail Badge](https://img.shields.io/badge/-NishitVerma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishitverma1312@gmail.com)](mailto:nishitverma1312@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
@@ -25,4 +24,5 @@
 
 
 -----
+[![Linkedin Badge](https://img.shields.io/badge/-NishitVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/nishit-verma-0bba911a5)  [![Gmail Badge](https://img.shields.io/badge/-NishitVerma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishitverma1312@gmail.com)](mailto:nishitverma1312@gmail.com)
 Credits: [Nishit Verma](https://github.com/Nishit3479)

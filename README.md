@@ -17,7 +17,7 @@
 -  **Languages :** Java, Python, HTML, Java Script, C, R, Matlab.
 -  **Organisations :** Null InfoSec Chapter - VIT AP, Open Source Community (OSC) - VIT AP.
 <p align="center">
-  <img alt="Nishit Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishit3479&show_icons=true&theme=radical">
+  <img alt="Nishit Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishit3479&hide=contribs,prs&count_private=true&show_icons=true&theme=radical">
 </p>
 
 -----

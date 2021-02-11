@@ -25,4 +25,5 @@
 
 -----
 [![Linkedin Badge](https://img.shields.io/badge/-NishitVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/nishit-verma-0bba911a5)  [![Gmail Badge](https://img.shields.io/badge/-NishitVerma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishitverma1312@gmail.com)](mailto:nishitverma1312@gmail.com)
+
 Credits: [Nishit Verma](https://github.com/Nishit3479)

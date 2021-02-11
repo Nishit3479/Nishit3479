@@ -12,7 +12,7 @@
 - ⚡ I'm currently pursuing my Engineering in Computer Science Engineering with spec. in Networking and Security at [VIT-AP](https://vitap.ac.in/).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### <i>About</i>
+### <i>Info</i>
 
 -  **Learning :** Basics of Cyber Security, Web Development.
 -  **Languages :** Java, Python, HTML, Java Script, C, R, Matlab.
@@ -24,7 +24,7 @@
 
 
 -----
-[![Linkedin Badge](https://img.shields.io/badge/-NishitVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishit-verma-0bba911a5)](https://www.linkedin.com/in/nishit-verma-0bba911a5)  [![Gmail Badge](https://img.shields.io/badge/-NishitVerma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishitverma1312@gmail.com)](mailto:nishitverma1312@gmail.com) [![StackOverFlowBadge](https://img.shields.io/badge/-NishitVerma-black?style=flat-square&logo=Stack%20OverFlow&logoColor=Orange&link=https://www.linkedin.com/in/ishagupta20//)](https://stackoverflow.com/users/14736743/nishit-verma)
+[![Linkedin Badge](https://img.shields.io/badge/-NishitVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishit-verma-0bba911a5)](https://www.linkedin.com/in/nishit-verma-0bba911a5)  [![Gmail Badge](https://img.shields.io/badge/-NishitVerma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishitverma1312@gmail.com)](mailto:nishitverma1312@gmail.com) [![Stack OverFlow Badge](https://img.shields.io/badge/-NishitVerma-black?style=flat-square&logo=Stack%20OverFlow&logoColor=Orange&link=https://stackoverflow.com/users/14736743/nishit-verma)](https://stackoverflow.com/users/14736743/nishit-verma)
 
 Credits: [Nishit Verma](https://github.com/Nishit3479)
 

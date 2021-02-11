@@ -4,7 +4,6 @@
 **Nishit3479/Nishit3479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on the basics of Cyber Security.
 - 🌱 I’m looking to collaborate on projects related to Java, Python and Web development. 
@@ -18,9 +17,7 @@
 -  **Languages :** Java, Python, HTML, Java Script, C, R, Matlab.
 -  **Organisations :** Null InfoSec Chapter - VIT AP, Open Source Community (OSC) - VIT AP.
 
-<p align="center">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishit3479&show_icons=true&theme=radical">
-</p>
+
 
 
 -----

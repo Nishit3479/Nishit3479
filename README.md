@@ -16,9 +16,9 @@
 -  **Learning :** Basics of Cyber Security, Web Development.
 -  **Languages :** Java, Python, HTML, Java Script, C, R, Matlab.
 -  **Organisations :** Null InfoSec Chapter - VIT AP, Open Source Community (OSC) - VIT AP.
-
-
-
+<p align="center">
+  <img alt="Nishit Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishit3479&show_icons=true&theme=radical">
+</p>
 
 -----
 [![Linkedin Badge](https://img.shields.io/badge/-NishitVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishit-verma-0bba911a5)](https://www.linkedin.com/in/nishit-verma-0bba911a5)  [![Gmail Badge](https://img.shields.io/badge/-NishitVerma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishitverma1312@gmail.com)](mailto:nishitverma1312@gmail.com) [![Stack OverFlow Badge](https://img.shields.io/badge/-NishitVerma-black?style=flat-square&logo=Stack%20OverFlow&logoColor=Orange&link=https://stackoverflow.com/users/14736743/nishit-verma)](https://stackoverflow.com/users/14736743/nishit-verma)

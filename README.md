@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java, Python and many other languages.
-- 🌱 I’m currently learning the basics of cyber security.
+🔭 I’m currently working on Java, Python and many other languages.
+🌱 I’m currently learning the basics of cyber security.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

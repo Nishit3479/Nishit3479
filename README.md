@@ -16,7 +16,7 @@
 
 -  **Learning :** Basics of Cyber Security, Web Development.
 -  **Languages :** Java, Python, HTML, Java Script, C, R, Matlab.
--  **Organisation :** Null InfoSec Chapter - VIT AP, Open Source Community (OSC) - VIT AP.
+-  **Organisations :** Null InfoSec Chapter - VIT AP, Open Source Community (OSC) - VIT AP.
 
 <p align="center">
   <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishit3479&show_icons=true&theme=radical">

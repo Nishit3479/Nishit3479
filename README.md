@@ -26,3 +26,6 @@
 
 ### <i>Blog</i>
 https://theblogsideweb.wordpress.com/
+
+http://github.com - automatic!
+[GitHub](http://github.com)

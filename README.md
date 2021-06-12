@@ -26,4 +26,4 @@
  
 
 ### <i>Blog</i>
-Do not forget to visit my personal [Blog](https://theblogsideweb.wordpress.com) and on [Blog](https://nishitverma1312.medium.com/what-is-maze-ransomware-1782ff2d7bd6) on Medium.
+Do not forget to visit my personal [Blog](https://theblogsideweb.wordpress.com) and My [Articles](https://nishitverma1312.medium.com/what-is-maze-ransomware-1782ff2d7bd6) on Medium too.

@@ -14,7 +14,7 @@
 ### <i>Info</i>
 
 -  **Learning :** Basics of Cyber Security, Web Development.
--  **Languages :** Java, Python, HTML, CSS, Java Script, PHP, SQL, C, C++, R, Matlab.
+-  **Languages :** Java, Python, HTML, CSS, Java Script, PHP, SQL, C, C++, R, Matlab and many more.
 -  **Organisations :** Null InfoSec Chapter - VIT AP, Open Source Community (OSC) - VIT AP.
 <p align="center">
   <img alt="Nishit Verma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishit3479&hide=contribs,prs&count_private=true&show_icons=true&theme=radical">
@@ -26,4 +26,4 @@
  
 
 ### <i>Blog</i>
-Do not forget to visit my [Blog](https://theblogsideweb.wordpress.com).
+Do not forget to visit my personal [Blog](https://theblogsideweb.wordpress.com) and on [Blog](https://nishitverma1312.medium.com/what-is-maze-ransomware-1782ff2d7bd6) on Medium.

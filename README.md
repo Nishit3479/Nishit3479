@@ -6,14 +6,14 @@
 - 😄 Pronouns: ...
 -->
 - 🔭 I’m currently working on the basics of Cyber Security.
-- 🌱 I’m looking to collaborate on projects related to Java, Python and Web development. 
-- 🤔 I’m looking for help and guidance towards learning cyber security related modules.
+- 🌱 I’m looking to collaborate on projects related to Java, Web and Mobile App development. 
+- 🤔 I’m looking for guidance towards learning cyber security related modules.
 - ⚡ I'm currently pursuing my Engineering in Computer Science Engineering with spec. in Networking and Security at [VIT-AP](https://vitap.ac.in/).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Info</i>
 
--  **Learning :** Basics of Cyber Security, Web Development.
+-  **Learning :** Cyber Security, Web and Mobile App Development.
 -  **Languages :** Java, Python, HTML, CSS, Java Script, PHP, SQL, C, C++, R, Matlab and many more.
 -  **Organisations :** Null InfoSec Chapter - VIT AP, Q-Hub - VIT AP, Open Source Community (OSC) - VIT AP.
 <p align="center">

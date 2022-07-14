@@ -27,6 +27,3 @@
 
 ### <i>Blog</i>
 Do not forget to visit my personal [Blog](https://theblogsideweb.wordpress.com) and My [Articles](https://nishitverma1312.medium.com/what-is-maze-ransomware-1782ff2d7bd6) on Medium too.
-
-
-![Nishit's github stats](https://github-readme-stats.vercel.app/api?username=Nishit3479)
